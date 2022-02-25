@@ -1,0 +1,2408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proposal for raising the price of tin &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56014</idno>
+            <idno type="STC">Wing P3695</idno>
+            <idno type="STC">ESTC R17975</idno>
+            <idno type="EEBO-CITATION">09025595</idno>
+            <idno type="OCLC">ocm 09025595</idno>
+            <idno type="VID">42270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proposal for raising the price of tin &amp;c.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tin --  Great Britain --  History.</term>
+               <term>Great Britain --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:42270:1" rendition="simple:additions"/>
+            <head>THE PROPOSAL FOR RAISING THE Price of Tin, &amp;c.</head>
+            <p>HAD we, in the Four laſt Reigns, exemplified the Policy of the wiſe <hi>Venetians,</hi> to incourage and promote our Trade and Commerce, being poſted by Nature on <hi>The Emporium of the World,</hi> and being a warlike People, what could we not have done?</p>
+            <p>A well-managed Trade is the Creator and Preſerver of Mony, and Mony and Trade are the Sinews of War.</p>
+            <pb n="2" facs="tcp:42270:2"/>
+            <p>But it doth not become me to ſay much of the Trade of this Nation in general, it being under the Care of that Honourable Counſel, now, moſt ſeaſonably, appointed to inſpect the ſame.</p>
+            <p>Nevertheleſs, having a natural Affection for <hi>Cornwall,</hi> as it is my Native County, and having informed my ſelf thereof, I take it to be ſo Rich in it ſelf by Nature, that Art and Induſtry might make it exceed all that hath been ſaid by any Author in praiſe of <hi>Zant,</hi> the Place we have hitherto been ſpeaking of.</p>
+            <p>
+               <hi>CORNWALL</hi> (by the Providence of God) doth naturally produce Tin: A Mettal, when fine, is, in its Nature, next to Silver, and is ſaid to have given the Name of <hi>Britain</hi> to this Nation;<note place="margin">
+                  <hi>Sams Brit.</hi> pag. 1.</note> which may ingage the King's moſt Excellent Majeſty, as Gods Repreſentative; and His High Court of Parliament, to have the greater Value and Eſteem for it.</p>
+            <p>Being Environed as it is by the Sea, and having the ad<g ref="char:EOLhyphen"/>vantage of good Harbors, Nature ſeems to have deſigned it for a flouriſhing Trade; and the more, becauſe that Land not only abounds with the beſt Tin in the World, and the greateſt Quantities thereof, but the Sea affords it the beſt Fiſh alſo.</p>
+            <p>And abounding with Tin and Fiſh, as <hi>Zant</hi> doth with Currants and Wine, as the <hi>Venetians</hi> have improved the Trade of <hi>Zant,</hi> ſo we ſhould uſe our utmoſt Endeavour to Encourage and Revive the Trade of <hi>Cornwall.</hi>
+            </p>
+            <p>NOW the practice of our Factory at <hi>Zant,</hi> and the method of Policy which the <hi>Venetians</hi> made uſe of when
+<pb n="3" facs="tcp:42270:2"/>the Weſtern Trade failed them, gave me an occaſion to reflect on the Cauſes of the Decay of Trade in our natu<g ref="char:EOLhyphen"/>rally rich County of <hi>Cornwall,</hi> and to conſider of ſome Means to repair and improve it; and I hope that the In<g ref="char:EOLhyphen"/>genious Lovers of that County, and of this Kingdom, will contribute their Aſſiſtance to make the Propoſal take effect.</p>
+            <p>WHAT Prices Tin bore, and what Trades were driven thereby in Queen <hi>Elizabeth</hi>'s time, when we had the abſolute Empire of the Ocean, and a flouriſhing Trade, I cannot ſo well inform my Reader as I would.</p>
+            <p>But ſome Years before the Reſtauration, when we had again the Command of the Seas, That Commodity of <hi>Cornwall</hi> yeilded to the Tinners there 6 <hi>l.</hi> 5 <hi>s.</hi> a hundred Merchants Weight, clear of all Coinage Duties; and then the Income to that County (by that Commodity only) amounted to 200000 <hi>l.</hi> Sterling a Years and upwards.</p>
+            <p>The Quantities of Tin are now almoſt the ſame as for<g ref="char:EOLhyphen"/>merly, only that Trade hath been, of latter Years, miſ<g ref="char:EOLhyphen"/>manged, to the great Diſadvantage both of that County and the Kingdom, the Price of Tin being now brought down to 50 <hi>s. per Cent,</hi> or thereabouts.</p>
+            <p>For the <hi>Corniſh</hi> Factors are leſs kind to their Country<g ref="char:EOLhyphen"/>men the Tinners, than our Engliſh Factors are to the <hi>Zanteots;</hi> and more faithful to the <hi>London</hi>-Pewterers, than thoſe are to their Engliſh Principals. And (being no leſs careful for themſelves) as our Factors imploy their Mer<g ref="char:EOLhyphen"/>chants Capitals, to prevent and fore-ſtall thoſe that imploy them; ſo our <hi>Corniſh</hi> Factors imploy the Stock, remitted to them by the Pewterers, in neceſſary Materials for car<g ref="char:EOLhyphen"/>rying
+<pb n="4" facs="tcp:42270:3"/>on the Tin-Trade; which Materials they ſell at extraordinary Rates to the labouring Tinners, to be paid for the ſame in Tin, much under the Market-price.</p>
+            <p>And having once got thoſe People into their Debt, they do by Intereſt and Extortion always keep them ſo Poor, that (to gratify the <hi>London</hi>-Pewterers and Merchants that imploy them, and for another Intereſt) they compel thoſe poor Tinners to ſell at what Price they pleaſe, and by that means do govern the Market, not only to the great Detri<g ref="char:EOLhyphen"/>ment of the County, but to the Diſadvantage of the Kingdom.</p>
+            <p>NOW the Tin-Trade being divided into ſo many Peoples Hands, as thoſe labouring, adventuring Tinners are, it will be difficult to do them good, but by a Law Enacted to redreſs their Grievances; and ſuch a Law, as (being executed) may have the like effect with that of the <hi>Noviſ<g ref="char:EOLhyphen"/>ſima Impoſta,</hi> when the <hi>Venetians</hi> had almoſt loſt the Weſt<g ref="char:EOLhyphen"/>ern Trade.</p>
+            <p>And we having ſo far loſt our Weſtern Trade of Tin, that the Labouring Tinners can ſcarce get their Bread, I am of Opinion that we may regain it with Advantage, and raiſe the Price or Tin in ſome degree, if (after the Preſident and Example of the <hi>Venetians</hi>) a <hi>Noviſſima Impoſta</hi> be laid upon all ſuch as ſhall buy and ſell Tin in the Counties of <hi>Cornwall</hi> and <hi>Devon,</hi> under three or four Pounds a hun<g ref="char:EOLhyphen"/>dred, or ſuch a Price as <hi>The Kings moſt excellent Majeſty, The right Honourable the Lords Spiritual and Temporal, and The Honourable the Commons in Parliament,</hi> ſhall think meet. And Tin being now at 50 <hi>s. per Cent,</hi> ſuch an Impoſition will be of conſiderable Advantage to the Nation, both in general and in particular.</p>
+            <p>AT 4 <hi>l. per Cent.</hi> (conſidering the preſent Price) the King will gain by the Benefit and Advantage of his Subjects,
+<pb n="5" facs="tcp:42270:3"/>altho' His Majeſty ſhould have no more than his former Duty.</p>
+            <p>The Kingdom will gain (according to the preſent Rate of Tin) Three Parts in Eight of all that is Tranſported, becauſe the ſame Quantity being Tranſported at that Price, will occaſion the Importation of three eighth Parts more in return, either in Mony or Merchandize; <hi>For all other Markets are governed by the first Market-price.</hi>
+            </p>
+            <p>The County in general will gain by it, becauſe <hi>Land and Trade are in natural Sympathy;</hi> and the Tinners having 4 <hi>l.</hi> a hundred for their Tin, will have the more Mony and Credit to ſupport themſelves and their Families.</p>
+            <p>The <hi>Corniſh</hi> Factors will gain by it three eighth Parts in their Proviſion, if no more; and this will take away the Occaſion of <hi>Grinding the Poor to gratifie the Princi<g ref="char:EOLhyphen"/>pal,</hi> &amp;c.</p>
+            <p>The <hi>London</hi>-Pewterers will have the like Advantage, inſomuch as they are Factors for: And I have heard the chiefeſt of them wiſh, That the Price of Tin might never be leſs than 3 <hi>l.</hi> a hundred in <hi>Cornwall.</hi>
+            </p>
+            <p>And, after all, the principal Merchants can be no Loſers by it, if it be true what a certain Merchant once wrote me at <hi>Zant, That the dearer they bought abroad, the dearer they ſold at home.</hi>
+            </p>
+            <p>So that it is as much the Intereſt of the whole King<g ref="char:EOLhyphen"/>dom to keep up the Price of Tin in <hi>Cornwall,</hi> as it was for <hi>the</hi> Venetians, <hi>the</hi> Zanteots, <hi>and the</hi> Praemorratory, to keep up the Price of Currants at <hi>Zant.</hi>
+            </p>
+            <p>AND that it may not be urged, That the advancing the Price of Tin will cauſe the leſs Quantity thereof to be Tranſported, I muſt here take notice, That there is no Part of the known World, beſides <hi>Cornwall</hi> and <hi>Devon,</hi> that doth produce Tin, unleſs it be <hi>Germany</hi> and the <hi>East-Indies;</hi> and the Tin which is made there, is not ſo good
+<pb n="6" facs="tcp:42270:4"/>as our Tin by 20 <hi>s.</hi> the Hundred; nor can they afford to ſell the ſame ſo cheap as 5 <hi>l. per Cent.</hi>
+            </p>
+            <p>Neither will the <hi>East-India</hi> or <hi>German</hi> Tin ſerve ſo well as ours, for the very many Uſes which are made thereof throughout the World; and, not to mention its ex<g ref="char:EOLhyphen"/>cellent Uſefulneſs for making Looking-glaſſes, Lackering, Painting, <hi>&amp;c.</hi> I am informed, That the fineſt Earthen Ware in the World cannot be made without our <hi>Corniſh</hi> Tin, which occaſions ſo great a Conſumption of that Commodity, beyond what is expended in all common Uſes.</p>
+            <p>And farther it hath been obſerved, That when the greateſt Quantities of Tin have been made in <hi>Cornwall,</hi> there hath been none left Uncoined or Unſold; and the higher the Price, the better thoſe Quantities have gone off; which (to me) ſeems a good Argument of a Neceſſity the World is under to buy this Commodity of us: And their Neceſſity, as well as our great Coſts and Charges, and the Danger and Difficulty of coming at the Tin, ſhould bring us to underſtand its true Value, and make our utmoſt Advantage by it.</p>
+            <p>And did we make but half the Quantity of Tin, we now do, we might advance that Quantity to what Price we pleaſed; and then the one half of the Charges would be ſaved alſo.</p>
+            <p>The Charge of Deals, Cordage and Iron, which for the moſt part come from <hi>Norway,</hi> the <hi>East-Country</hi> and <hi>Spain,</hi> and Eat up a great part of the Profit, would then be but half as much.</p>
+            <p>And one half of the Labourers would be imploy<g ref="char:EOLhyphen"/>ed in the Fiſhing Trade, <hi>&amp;c.</hi> and to improve the Lands by Husbandry, that County being capable of Improvement, that way, to double the Value it is now
+<pb n="7" facs="tcp:42270:4"/>off; beſides the Advantage that might be made by a full Improvement of the Fiſhery, <hi>&amp;c.</hi>
+            </p>
+            <p>AND now to ſhew the deplorable Circumſtance of the poor, Labouring Tinners, we will ſuppoſe (for De<g ref="char:EOLhyphen"/>monſtration-ſake) there are Eight thouſand Tinners Yearly imployed about the Tinning-Trade, although I am ſatisfied that they much exceed that Number, who (with their Families) depend upon the Product of their Labour.</p>
+            <p>And all the Tin coined in <hi>Cornwall</hi> in the Year, 1692. (which was the Year before I deſigned to publiſh theſe Grievances) was by the Coinage-Books of that County 11174 Pieces, and the Coinage-Duty thereof being 4 <hi>s.</hi> a Hundred in <hi>Cornwall,</hi> amounted that Year to 5449 <hi>l.</hi> 17 <hi>s.</hi> 00 <hi>d.</hi> By which it doth appear, That there muſt have been 27249 hundred Weight of Tin made that Year in <hi>Cornwall</hi> only.</p>
+            <p>And ſuppoſing that Quantity ſold at 50 <hi>s. per Cent.</hi> the whole Product of the Tin made in <hi>Cornwall</hi> in the Year, 1692. muſt then come to 69222 <hi>l.</hi> 10 <hi>s.</hi> 00. <hi>d.</hi> which is a Sum much inferiour to the 200000 <hi>l. a Year and up<g ref="char:EOLhyphen"/>wards.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Now out of this 69222 <hi>l.</hi> 10 <hi>s.</hi> 00 <hi>d.</hi> muſt be paid (clear of all Charges) to the <hi>Bounder</hi> and <hi>Lord of the Soil</hi> for <hi>Toll</hi> and <hi>Farm,</hi> about a fifth part of the whole; which comes to</cell>
+                     <cell>13844</cell>
+                     <cell>08</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Charges of <hi>Smiths Work, Timber, Ropes</hi> and <hi>Candles,</hi> we compute to each Man in a Year about 20 <hi>s.</hi> which for Eight thouſand Men, is</cell>
+                     <cell>8000</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="8" facs="tcp:42270:5"/>
+                  <row>
+                     <cell>And ſuppoſing the <hi>Dreſſing</hi> and <hi>Stamp<g ref="char:EOLhyphen"/>ing,</hi> to make every Hundred of Tin, comes to 2 <hi>s.</hi> 6 <hi>d.</hi> it amounts for the whole Years Tin, to</cell>
+                     <cell>3406</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>The Charges of <hi>Refining</hi> that Years Tin, at 30 <hi>s.</hi> the <hi>Tide,</hi> computing One thou<g ref="char:EOLhyphen"/>ſand of Tin to be Refined in each <hi>Tide,</hi> comes to</cell>
+                     <cell>2725</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Charges of <hi>Carrying,</hi> and the Ex<g ref="char:EOLhyphen"/>pences at the <hi>Refining</hi> or <hi>Blowing-houſe,</hi> at 10 <hi>s.</hi> the <hi>Tide,</hi> comes to</cell>
+                     <cell>0908</cell>
+                     <cell>12</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell role="total">The whole Sum to be deducted, comes to</cell>
+                     <cell role="total">28884</cell>
+                     <cell role="total">09</cell>
+                     <cell role="total">10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which being deducted out of the aboveſaid 69222 <hi>l.</hi> 10 <hi>s.</hi> 00 <hi>d.</hi> there will remain clear to be divided among the ſaid <hi>Eight thouſand Tinners,</hi> but 40338 <hi>l.</hi> 00 <hi>s.</hi> 02 <hi>d.</hi> which comes to Five Pounds and Ten Pence and about a half Farthing, to each Tinner.</p>
+            <p>And this is all each Tinner hath to maintain Himſelf and Family, and for his whole Years hard Labour, not only under Ground, but under God knows how-many Grievances.</p>
+            <p>But indeed they have been the better able to bear them, as being the moſt <hi>Herculean</hi> and ſtouteſt Men upon Earth; and for their moſt faithful and loyal Services, have the greateſt Privileges of Liberty and Property, of any People in the Kingdom.</p>
+            <p>FOR there are other Grievances relating to the Tin-Trade, which are almoſt, if not altogether, as prejudicial as what hath been ſaid.</p>
+            <pb n="9" facs="tcp:42270:5"/>
+            <p>The <hi>Corniſh</hi> Factors, and others, are not the only Cauſes of the poor Tinners Miſery, the <hi>Corniſh</hi> Lawyers muſt come in for a Share too: For as the Factors grind the poor Tinners to gratify the principal Traders, and there<g ref="char:EOLhyphen"/>by increaſe their Commiſſions, <hi>&amp;c,</hi> So the Lawyers (up<g ref="char:EOLhyphen"/>on the Diſcovery of a Rich Mine) (taking the advantage of the Tinners Ignorance in the Stannary Laws, they being not ſet forth and Publiſhed in Print) do uſe all Means (by way of pretended Juſtice) to right thoſe Clients againſt the Bounder, the Landlord, or their Fellow-Adventurers, When in Truth it is in the main a Contrivance to make themſelves Maſters of thoſe Mines, and the Profits there<g ref="char:EOLhyphen"/>of, and the Tinners the Slaves only to dig the Oar for them.</p>
+            <p>And this they the ſooner do, becauſe their Fees are ſo great, and the Law-ſuits (which they create) ſo delatory, that (in proportion) they exceed all other Grievances; Whereas the Tinners Privilege (as I am inform'd) is to have their Proceedings at Law altogether in Engliſh; and, upon Payment of a Penny only, they are at liberty to appear in Perſon, and to Speak and Act for themſelves, that their Cauſes may be the ſooner ended.</p>
+            <p>UPON the whole it may be ſaid, That it is with the Tinner and his Tin, as it is with the <hi>Spaniard</hi> and his Silver; And indeed the Tinner takes all the Pain, and others carry away the Profit.</p>
+            <p>And, to ſhew my Reader, that our <hi>Corniſh</hi> Tin is valued abroad next to the <hi>Spaniards</hi> Silver, I ſhall hereto add an Account of what part of that Tin, which (being Coined in <hi>Cornwall</hi> in the Year, 1692.) was Ship'd off at the Port of <hi>London,</hi> from the Firſt of <hi>January,</hi> 1692/3. for one whole Year, with each Merchants Name, and the ſeveral Ports to which the ſame were ſent that Year.</p>
+            <pb n="10" facs="tcp:42270:6"/>
+            <p>
+               <table>
+                  <head>1692. <hi>Ianuary.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Morris</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Daniel Busk</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gerard Muskin</cell>
+                     <cell>118</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>33</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>194</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">476</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>February.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>N. Fardenando</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Oporto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Put</cell>
+                     <cell>64</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mich. Godfrey</cell>
+                     <cell>64</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Clark</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Oporto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Joſeph Trolle</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">252</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>March.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dan. Buckell</cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>43</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>77</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>29</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>90</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>deras</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>170</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>19</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gerard Muskin</cell>
+                     <cell>112</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Gould</cell>
+                     <cell>120</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>19</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>William Rogers</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Thyn</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Auth. Mory</cell>
+                     <cell>81</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Gould</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> J. Lethulier</cell>
+                     <cell>85</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">1235</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>April.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Genoa</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Kett</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Dantziok</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dunt &amp; C.</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>73</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Simon Lodwick</cell>
+                     <cell>63</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <pb n="11" facs="tcp:42270:6"/>
+                  <row>
+                     <cell>James Kett</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Bueran</cell>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robards</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Liddicat</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>27</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> J. Lethullier</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>Glunſtad</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Furbiſh</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Scotland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Naſtis Munis</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>61</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Thyn</cell>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>124</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">939</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>May.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Long</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Scotland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>64</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>64</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>10</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>61</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>63</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> J. Lethullier</cell>
+                     <cell>171</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gerard Muskin</cell>
+                     <cell>59</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Danel Robins</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>75</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robards</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Leghorn</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Desbubay</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pet. Durance</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Manſel Falcon</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Portugal</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Stockholm</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ja. Crop</cell>
+                     <cell>102</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nath. Bat</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Holland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Braſe</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Bureaw</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Roger</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pet. Gregor</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Rogers</cell>
+                     <cell>56</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>57</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Stode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">1488</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Iune.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robards</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>82</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Robert Smith</cell>
+                     <cell>110</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Gould</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Clark</cell>
+                     <cell>124</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pet. Gregor</cell>
+                     <cell>47</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard White</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <pb n="12" facs="tcp:42270:7"/>
+                  <row>
+                     <cell>John Hulls</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James Crop</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gerard Muskin</cell>
+                     <cell>64</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Gould</cell>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>256</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fen &amp; C.</cell>
+                     <cell>84</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>125</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam Smaley</cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>73</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>34</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>W. Dusbubery</cell>
+                     <cell>45</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Simon Legwylk</cell>
+                     <cell>37</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Young</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Na. Rouces</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Na. Lloyd</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> Sam. Herne</cell>
+                     <cell>74</cell>
+                     <cell>
+                        <hi>Cadiz</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Oporto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lent &amp; C.</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Ruſſia</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Johnſon</cell>
+                     <cell>97</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Roger Jones</cell>
+                     <cell>38</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>41</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>March</cell>
+                     <cell>99</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">1943</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Iuly.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robards</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Ruſſia</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Fiſher</cell>
+                     <cell>27</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Johnſon</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <pb n="13" facs="tcp:42270:7"/>
+                  <row>
+                     <cell>Dunt &amp; C.</cell>
+                     <cell>53</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Sands</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Ruſſia</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>195</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Walton</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>56</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>66</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard White</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Anth. Burnay</cell>
+                     <cell>34</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Breckley</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>45</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ed. Haſtill</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Peter Gregor</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">666</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Auguſt.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Long</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Scotland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dan Parker</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Geo. Muskin</cell>
+                     <cell>120</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>57</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Macklock</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Geo. Martinego</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Crop</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Henry Adley</cell>
+                     <cell>1</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>46</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Daniel Robins</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dunt &amp; C.</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Marg. Benton</cell>
+                     <cell>28</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>N. Mickelwick</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <pb n="14" facs="tcp:42270:8"/>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Archer</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>29</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James Crop</cell>
+                     <cell>49</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>N. Rouſes</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robards</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Hulls</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Leon. Johnſon</cell>
+                     <cell>5</cell>
+                     <cell>
+                        <hi>Elſinore</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dan. Robins</cell>
+                     <cell>57</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Na. Rouſes</cell>
+                     <cell>33</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>48</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>58</cell>
+                     <cell>
+                        <hi>Stockholm</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">1154</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>September.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Stockholm</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Sherry</cell>
+                     <cell>3</cell>
+                     <cell>
+                        <hi>Norway</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>36</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>92</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Waterer</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Jackſon</cell>
+                     <cell>95</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Rogers</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dun &amp; C.</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gil. Heathcot</cell>
+                     <cell>96</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>2</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Siode</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Waldick</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Cottonboro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Roberts</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Waldick</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Cottonboro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>42</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Portugal</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">782</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>October.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Robert Dove</cell>
+                     <cell>4</cell>
+                     <cell>
+                        <hi>Stockholm</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Young</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Jackſon</cell>
+                     <cell>115</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dunt &amp; C.</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>William Rogers</cell>
+                     <cell>31</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>George Muskin</cell>
+                     <cell>76</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>14</cell>
+                     <cell>
+                        <hi>Oporto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Fiſher</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James Crop</cell>
+                     <cell>9</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Bridges</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>11</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard White</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>45</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>43</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Long</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Scotland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Archer</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Dantzick</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Na. Rouſes</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sir</hi> B. Ayloffe</cell>
+                     <cell>12</cell>
+                     <cell>
+                        <hi>Narve</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">631</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>November.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>240</cell>
+                     <cell>
+                        <hi>Scandar.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Pawell</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>74</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>James Crop</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>90</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>90</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>15</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>136</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>144</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>168</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Giles &amp; C.</cell>
+                     <cell>6</cell>
+                     <cell>
+                        <hi>Oſtivo</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Jackſon</cell>
+                     <cell>92</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Peter Durance</cell>
+                     <cell>80</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Holland</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Farmer</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Roberts</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>29</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>70</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>24</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>30</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>8</cell>
+                     <cell>
+                        <hi>Canaries</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Philip Vinvo</cell>
+                     <cell>80</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>60</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>J. Dun Antonic</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>62</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ditto</cell>
+                     <cell>7</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>80</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackell</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Caſſant &amp; C.</cell>
+                     <cell>23</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>13</cell>
+                     <cell>
+                        <hi>Flanders</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Peter Gregor</cell>
+                     <cell>25</cell>
+                     <cell>
+                        <hi>Amsterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>108</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Skinner</cell>
+                     <cell>40</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fran. Campfill</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Lisbon</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">2109</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>December.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">C.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>W. Desbubery</cell>
+                     <cell>200</cell>
+                     <cell>
+                        <hi>Streights</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>Venice</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Robarts</cell>
+                     <cell>35</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Richard Smith</cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>Rotterdam</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sam. Jackſon</cell>
+                     <cell>87</cell>
+                     <cell>
+                        <hi>Amſterd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Powell</cell>
+                     <cell>118</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. Shackle</cell>
+                     <cell>16</cell>
+                     <cell>
+                        <hi>Venice</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Fiſher</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Sound</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alex. Cleve</cell>
+                     <cell>18</cell>
+                     <cell>
+                        <hi>Hambro</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. Rogers</cell>
+                     <cell>21</cell>
+                     <cell>
+                        <hi>Ditto</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>John Hulls</cell>
+                     <cell>50</cell>
+                     <cell>
+                        <hi>Bremen</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">618</cell>
+                     <cell role="total"> </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="15" facs="tcp:42270:8"/>
+            <p>AND now, by the foregoing Particulars, it doth, part<g ref="char:EOLhyphen"/>ly, appear how our Tin is valued and diſperſed in the World; and (which is very remarkable) how much of it goes even to <hi>Germany</hi> it ſelf; and how all that comes from the <hi>Eaſt-Indies</hi> to <hi>Holland,</hi> doth not divert, or hinder, the <hi>Dutch,</hi> likewiſe, from taking great Quantities of it from us; The Quantities of Un-wrought Tin tranſported (from <hi>London</hi> only) in the Year, 1693. amounting, in the whole, to 61413 hundred Weight, Beſides the Un-wrought Tin tranſported that Year from other Ports and Places of the Kingdom; And beſides all the Pewter made in <hi>England,</hi> and Exported alſo; which is very conſiderable.</p>
+            <p>And the Conſideration the<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> ſhould make us Unite, to Revive, and Advance the Tin-Trade in <hi>Cornwall,</hi> and <hi>Devon</hi> to our own Benefit, with more Reaſon, Juſtice, and Honeſty, than <hi>The Venetians, the Greeks, and the Eng<g ref="char:EOLhyphen"/>liſh Factory</hi> did to recover, and increaſe the Trade of <hi>Venice</hi> and <hi>Zant,</hi> to their Advantage.</p>
+            <p>AND, in ſhort, it is not impoſſible (but eaſie) to raiſe the Price of Tin, to redreſs the Tinners Grievances, and to propoſe ſuch other Means, as may Raiſe the County of <hi>Cornwall,</hi> and this whole Kingdom, to great Riches and Honour.</p>
+            <p>NATURE hath cut out <hi>GREAT BRITAIN</hi> to anſwer the Great Name and Character it ever had in the Univerſe: And no Nation can deny, but that it is by Nature <hi>The Emporium of the World, The Center of Trade,</hi> and <hi>The most Valiant in War.</hi>
+            </p>
+            <pb n="16" facs="tcp:42270:9"/>
+            <p>AND, as <hi>Rome</hi> became Miſtreſs of the W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld, by pur<g ref="char:EOLhyphen"/>ſuing ſuch Rules as Neceſſity, and Nature <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> taught her; So Nature, and Neceſſity, have put <hi>This <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Land and Nation</hi> into the moſt Proper State and Condition of fol<g ref="char:EOLhyphen"/>lowing her Examples.</p>
+            <p>Whereby we may raiſe the Kingdom to a Pitch of <hi>Honour and Empire,</hi> which <hi>Old England</hi> (in all its Glory) was never capable of Acquiring.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42270:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
